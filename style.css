@@ -166,12 +166,7 @@
         }
          /* hover secton */
         
-            /* img:hover {
-      transform: scale(1.1);
-      filter: brightness(1.1) saturate(1);
-      transition: transform 0.5s ease, filter 0.5s ease;
-      border: 5px solid white;
-    } */
+           
         img:hover {
       transform: scale(1.05);
       transition: transform 0.5s ease, box-shadow 0.5s ease;
